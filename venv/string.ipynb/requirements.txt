@@ -1,3 +1,4 @@
 ipykernel
 TextBlob
 emoji
+scikit-learn
